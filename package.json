@@ -1,0 +1,22 @@
+﻿{
+  "name": "net.tnrd.customdrawers",
+  "version": "0.9.0",
+  "displayName": "Custom Drawers",
+  "description": "Custom drawers that can be used with regular objects/types instead of SerializedObjects",
+  "unity": "2019.1",
+  "keywords": [
+    "Drawer",
+    "Value",
+    "Reflection",
+    "Helper",
+    "Editor",
+    "GUI",
+    "EditorGUI"
+  ],
+  "author": {
+    "name": "Christiaan Bloemendaal",
+    "email": "unity3d@tnrd.net",
+    "url": "https://www.tnrd.net"
+  },
+  "dependencies": {}
+}
