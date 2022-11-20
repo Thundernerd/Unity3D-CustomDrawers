@@ -26,13 +26,20 @@ openupm add net.tnrd.customdrawers
 
 [<img src="https://img.shields.io/badge/-Download-success?style=for-the-badge"/>](http://package-installer.glitch.me/v1/installer/package.openupm.com/net.tnrd.customdrawers?registry=https://package.openupm.com)
 
+3. Installing through Package Manager - Git URL
+	- Open the package manager
+	- Click the plus button
+	- Click `Add package from GIT url...`
+	- Paste this link `https://github.com/Thundernerd/Unity3D-CustomDrawers`
+	- Click `Add`
+
 ## Usage
 
 ### Getting a drawer
 
 Below you can find a simple example on how to get and use a drawer. 
 
-```
+```csharp
 using TNRD.CustomDrawers;
 using UnityEditor;
 using UnityEngine;
