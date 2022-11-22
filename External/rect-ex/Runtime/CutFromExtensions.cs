@@ -1,8 +1,8 @@
 using System;
 using UnityEngine;
 
-namespace TNRD.RectEx {
-    public static class CutFromExtensions {
+namespace TNRD.CustomDrawers.RectEx {
+    internal static class CutFromExtensions {
 
         private const float SPACE = 2;
 

@@ -2,7 +2,7 @@
     "name": "TNRD.CustomDrawers.Editor",
     "rootNamespace": "TNRD.CustomDrawers",
     "references": [
-        "TNRD.st.rect-ex.Runtime"
+        "TNRD.CustomDrawers.RectEx"
     ],
     "includePlatforms": [
         "Editor"

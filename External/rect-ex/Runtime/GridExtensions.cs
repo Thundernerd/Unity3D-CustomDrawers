@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using System.Linq;
-using TNRD.RectEx.Internal;
+using TNRD.CustomDrawers.RectEx.Internal;
 
-namespace TNRD.RectEx {
-    public static class GridExtensions {
+namespace TNRD.CustomDrawers.RectEx {
+    internal static class GridExtensions {
 
         private const float SPACE = 2f;
 

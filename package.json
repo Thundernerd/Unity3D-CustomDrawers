@@ -1,6 +1,6 @@
 ﻿{
    "name":"net.tnrd.customdrawers",
-   "version":"0.9.0",
+   "version":"0.9.1",
    "displayName":"Custom Drawers",
    "description":"Custom drawers that can be used with regular objects/types instead of SerializedObjects",
    "unity":"2019.1",
