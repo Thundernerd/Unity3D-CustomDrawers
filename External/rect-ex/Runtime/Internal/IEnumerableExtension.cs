@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System;
 
-namespace TNRD.RectEx.Internal {
-    public static class IEnumerableExtension {
+namespace TNRD.CustomDrawers.RectEx.Internal {
+    internal static class IEnumerableExtension {
         public static IEnumerable<TResult> Merge<TFirst, TSecond, TResult> (this IEnumerable<TFirst> first,
                                                                             IEnumerable<TSecond> second,
                                                                             Func<TFirst, TSecond, TResult> selector){

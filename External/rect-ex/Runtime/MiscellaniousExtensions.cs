@@ -2,8 +2,8 @@
 using System.Linq;
 using UnityEngine;
 
-namespace TNRD.RectEx {
-    public static class MiscellaniousExtensions {
+namespace TNRD.CustomDrawers.RectEx {
+    internal static class MiscellaniousExtensions {
         public static Rect Abs(this Rect rect){
             if (rect.width < 0) {
                 rect.x += rect.width;
